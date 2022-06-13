@@ -1,0 +1,21 @@
+#Python
+*.pyc
+*~
+__pycache__
+
+#ENV
+.env
+venv/
+
+#Database
+db.sqlite3
+
+#Static folder at project root
+/static/
+
+#visual studio
+.vscode/
+.history/
+*.code-workspace
+
+
